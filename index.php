@@ -1,4 +1,4 @@
 <?php
-//test
+//test2
 echo "test";
 die;
